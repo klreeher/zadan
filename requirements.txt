@@ -1,0 +1,4 @@
+pillow
+beautifulsoup4
+pysvg-py3
+cssutils
